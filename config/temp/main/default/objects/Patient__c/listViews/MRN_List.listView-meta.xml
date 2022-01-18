@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>MRN_List</fullName>
+    <columns>NAME</columns>
+    <filterScope>Mine</filterScope>
+    <filters>
+        <field>Hospital_del__c</field>
+        <operation>equals</operation>
+        <value>IHC,John Hopkins</value>
+    </filters>
+    <label>MRN List</label>
+</ListView>

@@ -1,0 +1,17 @@
+.bottombar {
+    border-top: solid, black;
+    background-color: #84a98c;
+    display: flex;
+}
+.firsticon {
+    flex: 1;
+}
+
+.secondicon {
+    flex: 2;
+}
+
+.thirdicon {
+    flex: 3;
+}
+
